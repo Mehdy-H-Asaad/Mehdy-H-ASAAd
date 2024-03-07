@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MEHDY ASAAD</h1>
+<h1 align="center">Hi 👋, I'M MEHDY ASAAD</h1>
 <h3 align="center">An Enthusiastic Front-End React Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://mehdy-h-asaad.github.io/MyPortfolio/](https://mehdy-h-asaad.github.io/MyPortfolio/)
